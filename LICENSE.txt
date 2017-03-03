@@ -1,1 +1,2 @@
 Write what ever I want to write.
+Find out what happened when I commanned git add.
